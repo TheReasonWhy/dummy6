@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=MAX
+Comment=Простой пример приложения на C++
+Exec=/usr/bin/appdummy6
+Icon=/usr/share/icons/hicolor/256x256/apps/dummy6.png
+Terminal=false
+Categories=Utility;
